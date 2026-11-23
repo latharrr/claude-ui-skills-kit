@@ -1,0 +1,11 @@
+{
+  "format": 1,
+  "verified_date": "2026-11-23",
+  "sources": [
+    {"id":"taste","url":"https://github.com/leonxlnx/taste-skill.git","commit":"6c0b5c78f5d31776e2210305abaa210cdc0030bf","skill_path":"skills/taste-skill","license":"MIT"},
+    {"id":"design","url":"https://github.com/bergside/awesome-design-skills.git","commit":"f631a09b4fcc0166f2e2c1a8c81906ef680c57e8","skill_path":"skills","license":"MIT"},
+    {"id":"impeccable","url":"https://github.com/pbakaus/impeccable.git","commit":"b49177d32788f2dc585c42831d845dacf1ebed2c","skill_path":".claude/skills/impeccable","license":"Apache-2.0"},
+    {"id":"img2threejs","url":"https://github.com/img2threejs/img2threejs.git","commit":"0c0c49bc168e648dbaf9c8c080474de0b3a941b6","skill_path":".","license":"Apache-2.0"},
+    {"id":"playwright","url":"https://github.com/microsoft/playwright-cli.git","commit":"c872a33cec77fa03c28fa7c6d1ad99d15d04ce42","skill_path":"skills/playwright-cli","license":"Apache-2.0"}
+  ]
+}
